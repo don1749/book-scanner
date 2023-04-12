@@ -47,4 +47,3 @@ Python3.xは事前にインストールのこと。公式のでOK。
 ```
 # jupyter notebook
 ```
-まずは、`code/tutorial.ipynb`を開いてチュートリアルを読みつつ実行してみよう。
